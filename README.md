@@ -1,9 +1,7 @@
 # Consultório-ReactJS
 Site Web de um consultório odontológico.
 
-Hospedado em:
-
-[Netlify](https://consultorio-react.netlify.app/)
+Hospedado em: [Netlify](https://consultorio-react.netlify.app/)
 
 # Ambientes de Desenvolvimento e Referências
 IDE: VSCODE 1.55.1
