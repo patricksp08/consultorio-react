@@ -3,7 +3,7 @@ Site Web de um consultório odontológico.
 
 Hospedado em:
 
-https://consultorio-react.netlify.app/[!Netlify]
+[Netlify](https://consultorio-react.netlify.app/)
 
 # Ambientes de Desenvolvimento e Referências
 IDE: VSCODE 1.55.1
