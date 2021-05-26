@@ -1,5 +1,5 @@
 # Consultório-ReactJS
-Site Web de um consultório odontológico.
+Site de um consultório.
 
 Hospedado em: [Netlify](https://consultorio-react.netlify.app/)
 
